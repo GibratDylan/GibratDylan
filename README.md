@@ -1,7 +1,21 @@
-# 👋 Salut, je suis Dylan !
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=200&section=header&text=Dylan%20Gibrat&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
 
-## 🎓 À propos de moi
-Étudiant développeur à l'**École 42**, en parcours vers le titre RNCP niveau 7 spécialisé en Intelligence Artificielle et Algorithmique.
+<h3 align="center">🎓 Student Developer @ École 42 | 💻 C/C++/Python | 🔍 Internship May 2026</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+---
+
+## 👨‍💻 À propos de moi
+
+Étudiant à l'**École 42**, en parcours vers le titre RNCP niveau 7 spécialisé en **Intelligence Artificielle et Algorithmique**.
 
 Passionné par les systèmes bas niveau, l'algorithmique et la résolution de problèmes complexes.
 
@@ -9,48 +23,52 @@ Passionné par les systèmes bas niveau, l'algorithmique et la résolution de pr
 
 ## 🛠️ Stack technique
 
-**Langages :**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+**Langages**  
+`C` • `C++` • `Python` • `Shell/Bash`
 
-**Outils & Technologies :**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+**Outils & Environnement**  
+`Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB`
+
+**Compétences**  
+Algorithmique • Structures de données • Programmation système • Gestion mémoire • Raycasting • Finance quantitative
 
 ## 🚀 Projets phares
 
-### 🐚 [Minishell]
-Shell POSIX en C avec gestion avancée de la mémoire et parsing robuste  
+### 🐚 [Minishell](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
+Shell POSIX en C avec parsing avancé et gestion mémoire optimisée  
 `C` `Unix` `Parsing` `Process Management`
 
-### 🎮 [Cub3D]
-Moteur de rendu 3D utilisant le raycasting (style Doom 3D)  
-`C` `Raycasting` `3D Graphics` `Algorithmique`
+### 🎮 Cub3D
+Moteur 3D utilisant le raycasting (style Wolfenstein 3D)  
+`C` `Raycasting` `Graphics` `Algorithmique`
 
-### 📈 [Quant Trader]
+### 📈 Quant Trader
 Système de trading algorithmique avec backtesting  
-`Python` `Pandas` `NumPy` `Finance quantitative`
+`Python` `Pandas` `NumPy` `Finance`
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GibratDylan)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GibratDylan&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibratDylan&layout=compact&theme=radical" height="150" />
+</div>
 
-## 📝 Derniers articles
+## 📝 Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [Minishell 42 : L'art de créer un shell performant](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
-<!-- BLOG-POST-LIST:END -->
+- 📄 [Minishell 42 : L'art de créer un shell performant et maintenable](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
 
-## 📫 Me contacter
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-gibrat/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@gibrat.dylan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](gibrat.dylan@gmail.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LINKEDIN_URL)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gibrat.dylan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gibrat.dylan@gmail.com)
+
+</div>
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=120&section=footer" />
+</div>
