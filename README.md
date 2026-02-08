@@ -23,15 +23,15 @@ Passionné par les systèmes bas niveau, l'algorithmique et la résolution de pr
 
 ## 🚀 Projets phares
 
-### 🐚 [Minishell](lien-vers-ton-article-medium)
+### 🐚 [Minishell]
 Shell POSIX en C avec gestion avancée de la mémoire et parsing robuste  
 `C` `Unix` `Parsing` `Process Management`
 
-### 🎮 [Cub3D](lien-si-article-ou-description)
+### 🎮 [Cub3D]
 Moteur de rendu 3D utilisant le raycasting (style Doom 3D)  
 `C` `Raycasting` `3D Graphics` `Algorithmique`
 
-### 📈 [Quant Trader](lien-vers-repo-si-public)
+### 📈 [Quant Trader]
 Système de trading algorithmique avec backtesting  
 `Python` `Pandas` `NumPy` `Finance quantitative`
 
@@ -56,4 +56,3 @@ Système de trading algorithmique avec backtesting
 ---
 
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-```
