@@ -37,9 +37,7 @@ Système de trading algorithmique avec backtesting
 
 ## 📊 Statistiques GitHub
 
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=GibratDylan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibratDylan&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GibratDylan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📝 Derniers articles
 
