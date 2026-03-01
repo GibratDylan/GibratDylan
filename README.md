@@ -48,7 +48,7 @@ Système de trading algorithmique avec backtesting
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibratDylan&layout=compact)
+[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GibratDylan&theme=tokyo-night)](https://github.com/GibratDylan)
 
 ## 📝 Articles
 
