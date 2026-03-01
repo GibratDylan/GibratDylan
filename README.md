@@ -34,7 +34,7 @@ Algorithmique • Structures de données • Programmation système • Gestion 
 
 ## 🚀 Projets phares
 
-### 🐚 [Minishell](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
+### 🐚 [Minishell](https://github.com/GibratDylan/minishell)
 Shell POSIX en C avec parsing avancé et gestion mémoire optimisée  
 `C` `Unix` `Parsing` `Process Management`
 
