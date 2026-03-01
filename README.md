@@ -15,7 +15,7 @@
 
 ## About Me
 
-Student at **École 42**, working toward an RNCP Level 7 degree specialized in **Artificial Intelligence & Algorithmics**.
+Student at **École 42**, working toward an Master’s degree specialized in **Artificial Intelligence & Algorithmics**.
 
 Passionate about low-level systems, algorithm design, and tackling complex engineering challenges.
 
