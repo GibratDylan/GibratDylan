@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=200&section=header&text=Dylan%20Gibrat&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">🎓 Student Developer @ École 42 | 💻 C/C++/Python | 🔍 Internship May 2026</h3>
+<h3 align="center">Student Developer @ École 42 | C/C++/Python | Open to Internship — May 2026</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -13,51 +13,61 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## About Me
 
-Étudiant à l'**École 42**, en parcours vers le titre RNCP niveau 7 spécialisé en **Intelligence Artificielle et Algorithmique**.
+Student at **École 42**, working toward an RNCP Level 7 degree specialized in **Artificial Intelligence & Algorithmics**.
 
-Passionné par les systèmes bas niveau, l'algorithmique et la résolution de problèmes complexes.
+Passionate about low-level systems, algorithm design, and tackling complex engineering challenges.
 
-🔍 **Actuellement** : Recherche de stage développement logiciel (6 mois) à partir de mai 2026
+**Currently looking for** a 6-month software development internship starting **May 2026**
 
-## 🛠️ Stack technique
+---
 
-**Langages**  
+## Tech Stack
+
+**Languages**  
 `C` • `C++` • `Python` • `Shell/Bash`
 
-**Outils & Environnement**  
+**Tools & Environment**  
 `Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB`
 
-**Compétences**  
-Algorithmique • Structures de données • Programmation système • Gestion mémoire • Raycasting • Finance quantitative
+**Skills**  
+Algorithmics • Data Structures • Systems Programming • Memory Management • Raycasting • Quantitative Finance
 
-## 🚀 Projets phares
+---
 
-### 🐚 [Minishell](https://github.com/GibratDylan/minishell)
-Shell POSIX en C avec parsing avancé et gestion mémoire optimisée  
+## Featured Projects
+
+### [Minishell](https://github.com/GibratDylan/minishell)
+A POSIX-compliant shell written in C, featuring advanced parsing and optimized memory management  
 `C` `Unix` `Parsing` `Process Management`
 
-### 🎮 Cub3D
-Moteur 3D utilisant le raycasting (style Wolfenstein 3D)  
-`C` `Raycasting` `Graphics` `Algorithmique`
+### Cub3D
+A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D  
+`C` `Raycasting` `Graphics` `Algorithmics`
 
-### 📈 Quant Trader
-Système de trading algorithmique avec backtesting  
-`Python` `Pandas` `NumPy` `Finance`
+### Quant Trader
+An algorithmic trading system with integrated backtesting capabilities  
+`Python` `Pandas` `NumPy` `Finance` `Multi-threading`
+
+---
 
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GibratDylan&theme=tokyonight)
 
+---
+
 ## 📝 Articles
 
-- 📄 [Minishell 42 : L'art de créer un shell performant et maintenable](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
+- 📄 [Minishell 42: The Art of Building a Performant and Maintainable Shell](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
 
-## 📫 Contact
+---
+
+## 📫 Get in Touch
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-gibrat/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gibrat.dylan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gibrat.dylan@gmail.com)
