@@ -48,8 +48,6 @@ Système de trading algorithmique avec backtesting
 
 ## 📊 GitHub Stats
 
-[![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GibratDylan&theme=tokyo-night)](https://github.com/GibratDylan)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GibratDylan&theme=tokyonight)
 
 ## 📝 Articles
