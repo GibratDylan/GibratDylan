@@ -50,6 +50,8 @@ Système de trading algorithmique avec backtesting
 
 [![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GibratDylan&theme=tokyo-night)](https://github.com/GibratDylan)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GibratDylan&theme=tokyonight)
+
 ## 📝 Articles
 
 - 📄 [Minishell 42 : L'art de créer un shell performant et maintenable](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
