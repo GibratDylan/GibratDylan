@@ -42,7 +42,7 @@ Algorithmics • Data Structures • Systems Programming • Memory Management �
 A POSIX-compliant shell written in C, featuring advanced parsing and optimized memory management  
 `C` `Unix` `Parsing` `Process Management`
 
-### Cub3D
+### [Cub3D](https://github.com/GibratDylan/cub3d)
 A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D  
 `C` `Raycasting` `Graphics` `Algorithmics`
 
