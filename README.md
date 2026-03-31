@@ -60,7 +60,8 @@ An algorithmic trading system with integrated backtesting capabilities
 
 ## 📝 Articles
 
-- 📄 [Minishell 42: The Art of Building a Performant and Maintainable Shell](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
+- 📄 [Minishell 42: L’Art de Créer un Shell Performant et Maintenable](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
+- 📄 [Ce que les experts de la programmation à haut risque nous apprennent sur écrire du code bug-free](https://medium.com/@gibrat.dylan/ce-que-les-experts-de-la-programmation-à-haut-risque-nous-apprennent-sur-écrire-du-code-bug-free-447130a97e57)
 
 ---
 
