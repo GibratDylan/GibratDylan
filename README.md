@@ -25,7 +25,7 @@ Passionate about low-level systems, algorithm design, and tackling complex engin
 ## Tech Stack
 
 **Languages**  
-`C` • `C++` • `Python` • `Shell/Bash`
+`C` • `C++` • `Shell/Bash`
 
 **Tools & Environment**  
 `Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB`
