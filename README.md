@@ -2,12 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=200&section=header&text=Dylan%20Gibrat&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">Student Developer @ École 42 | C/C++/Python | Open to Internship — May 2026</h3>
+<h3 align="center">Student Developer @ École 42 | C/C++ | Open to Internship — May 2026</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
