@@ -45,8 +45,8 @@ A POSIX-compliant shell written in C, featuring advanced parsing and optimized m
 A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D  
 `C` `Raycasting` `Graphics` `Algorithmics`
 
-### Quant Trader
-An algorithmic trading system with integrated backtesting capabilities  
+### [Delta Orderbook]
+An algorithmic trading system
 `Python` `Pandas` `NumPy` `Finance` `Multi-threading`
 
 ---
