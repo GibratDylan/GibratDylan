@@ -46,7 +46,7 @@ A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D
 `C` `Raycasting` `Graphics` `Algorithmics`
 
 ### [Delta-Orderbook-Binance](https://github.com/GibratDylan/Delta-Orderbook-Binance)
-An algorithmic trading system
+An algorithmic trading system  
 `Python` `Optimisation` `Finance` `Multi-threading`
 
 ---
