@@ -45,9 +45,9 @@ A POSIX-compliant shell written in C, featuring advanced parsing and optimized m
 A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D  
 `C` `Raycasting` `Graphics` `Algorithmics`
 
-### [Delta Orderbook]
+### [Delta-Orderbook-Binance](https://github.com/GibratDylan/Delta-Orderbook-Binance)
 An algorithmic trading system
-`Python` `Pandas` `NumPy` `Finance` `Multi-threading`
+`Python` `Optimisation` `Finance` `Multi-threading`
 
 ---
 
