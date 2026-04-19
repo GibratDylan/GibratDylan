@@ -50,6 +50,10 @@ A 3D rendering engine using raycasting techniques, inspired by Wolfenstein 3D
 An algorithmic trading system  
 `Python` `Optimisation` `Finance` `Multi-threading` `AWS` `Docker`
 
+### [Webserv](https://github.com/GibratDylan/webserv)
+A fully-functional HTTP web server  
+`C++` `Optimisation` `HTTP` `I/O multiplexing` `Routing` `Session Management`
+
 ---
 
 ## 📊 GitHub Stats
