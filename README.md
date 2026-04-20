@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=200&section=header&text=Dylan%20Gibrat&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-<h3 align="center">Student Developer @ École 42 | C/C++ - Python - Bash | Open to Internship — May 2026</h3>
+<h3 align="center">Student Developer @ École 42 | C/C++ - Python - Bash | Open to Internship /h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Student at **École 42**, working toward an Master’s degree specialized in **Artificial Intelligence & Algorithmics**.
+Student at **École 42**, working toward a Master’s degree specialized in **Artificial Intelligence & Algorithmics**.
 
 Passionate about low-level systems, algorithm design, and tackling complex engineering challenges.
 
@@ -32,7 +32,7 @@ Passionate about low-level systems, algorithm design, and tackling complex engin
 `Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB` • `AWS`
 
 **Skills**  
-Algorithmics • Data Structures • Systems Programming • Memory Management • Raycasting • Quantitative Finance
+Algorithmics • Data Structures • Systems Programming • Memory Management • Raycasting • Algorithmic Trading
 
 ---
 
