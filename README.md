@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Student Developer @ École 42 | C/C++ - Python - Bash | Open to Internship
-/h3>
+</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
