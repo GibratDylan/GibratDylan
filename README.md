@@ -20,7 +20,7 @@ Student at **École 42**, working toward a Master’s degree specialized in **Ar
 
 Passionate about low-level systems, algorithm design, and tackling complex engineering challenges.
 
-**Currently looking for** a 6-month software development internship starting **May 2026**
+**Currently looking for** a 6-month software development internship
 
 ---
 
