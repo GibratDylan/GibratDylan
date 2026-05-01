@@ -33,7 +33,7 @@ Passionate about low-level systems, algorithm design, and tackling complex engin
 `Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB` • `AWS`
 
 **Skills**  
-Algorithmics • Data Structures • Systems Programming • Memory Management • Raycasting • Algorithmic Trading
+Algorithmics • Data Structures • Systems Programming • RAII • DRY • Separation of Concerns • Defensive Programming • Unit Testing
 
 ---
 
