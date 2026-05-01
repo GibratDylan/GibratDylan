@@ -30,10 +30,10 @@ Passionate about low-level systems, algorithm design, and tackling complex engin
 `C` • `C++` • `Python` • `Bash`
 
 **Tools & Environment**  
-`Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `GDB` • `AWS`
+`Git` • `Linux/Unix` • `Make` • `Docker` • `Valgrind` • `AWS`
 
 **Skills**  
-Algorithmics • Data Structures • Systems Programming • RAII • DRY • Separation of Concerns • Defensive Programming • Unit Testing
+`Algorithmics` • `Data Structures` • `Systems Programming` • `RAII` • `DRY` • `Separation of Concerns` • `Defensive Programming` • `Unit Testing`
 
 ---
 
