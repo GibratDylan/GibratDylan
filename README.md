@@ -55,6 +55,10 @@ An algorithmic trading system
 A fully-functional HTTP web server  
 `C++` `Optimisation` `HTTP` `I/O multiplexing` `Routing` `Session Management`
 
+### [Inception](https://github.com/GibratDylan/inception)
+A comprehensive Docker-based infrastructure project that demonstrates advanced containerization and orchestration concepts  
+`Docker` `Unix` `Bash` `Nginx` `Mariadb` `Redis` `Adminer` `Grafana` `Prometheus`
+
 ---
 
 ## 📊 GitHub Stats
@@ -67,6 +71,7 @@ A fully-functional HTTP web server
 
 - 📄 [Minishell 42: L’Art de Créer un Shell Performant et Maintenable](https://medium.com/@gibrat.dylan/minishell-42-lart-de-créer-un-shell-performant-et-maintenable-53c0aede140e)
 - 📄 [Ce que les experts de la programmation à haut risque nous apprennent sur écrire du code bug-free](https://medium.com/@gibrat.dylan/ce-que-les-experts-de-la-programmation-à-haut-risque-nous-apprennent-sur-écrire-du-code-bug-free-447130a97e57)
+- 📄 [Semantic versioning on autopilot: comment vos messages de commit pilotent votre pipeline CI/CD](https://medium.com/@gibrat.dylan/semantic-versioning-on-autopilot-comment-vos-messages-de-commit-pilotent-votre-pipeline-ci-cd-d30003a0b2c8)
 
 ---
 
